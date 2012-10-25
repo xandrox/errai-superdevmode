@@ -1,0 +1,13 @@
+.classpath
+.setting
+.project
+target
+.gitignore.swp
+.settings/
+.errai/
+src/main/gwt-unitCache/
+src/main/gwt-unitCache/**
+src/main/webapp/KitchenSink/.junit_symbolMaps/
+src/main/webapp/KitchenSink/deferredjs/		
+src/main/webapp/KitchenSink/deferredjs/**
+src/main/webapp/KitchenSink/**.cache.html
